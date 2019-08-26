@@ -4,6 +4,6 @@ Steps:
 
 2. After the changing the file format, the matlab code is executed on these images for preprocessing the dataset. The preprocessed dataset is stored in the yalefaces_final folder.
 
-3. THe python code is executed on this final dataset for face verification task. The face_recog_source and face_recog_test are folder made from images in yalefaces_final dataset for face recognition task
+3. The python code is executed on this final dataset for face verification task. The face_recog_source and face_recog_test are folder made from images in yalefaces_final dataset for face recognition task
 
 
