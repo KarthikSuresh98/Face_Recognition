@@ -1,9 +1,0 @@
-Steps:
-
-1. The yalefaces.zip file is the dataset used in this code. After extracting the files, you will see that the files may jpg format but the .extension for these files will not be jpg. You have to write a code to read these files and change their extensions to jpg format.  
-
-2. After the changing the file format, the matlab code is executed on these images for preprocessing the dataset. The preprocessed dataset is stored in the yalefaces_final folder.
-
-3. The python code is executed on this final dataset for face verification task. The face_recog_source and face_recog_test are folder made from images in yalefaces_final dataset for face recognition task
-
-
